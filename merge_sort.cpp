@@ -63,7 +63,7 @@ void merge_sort(int A[],int p,int r){
 
         /* code */
     }
-    printArray(A,r-p+1);
+    // printArray(A,r-p+1);
     
 }
 
